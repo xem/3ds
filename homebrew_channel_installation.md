@@ -1,0 +1,2 @@
+# Homebrew Channel installation
+
