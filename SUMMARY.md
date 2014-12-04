@@ -9,5 +9,5 @@
    * Send homebrews on the 3DS
    * [Staying up-to-date](staying_up-to-date.md)
 * [Homebrew development](homebrew_development.md)
-* Hello template!
+* [Hello template!](hello_template.md)
 
