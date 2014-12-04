@@ -5,5 +5,5 @@
 * [Setup](setup.md)
    * [Hardware](hardware.md)
    * [Computer setup](computer_setup.md)
-   * Homebrew Channel installation
+   * [Homebrew Channel installation](homebrew_channel_installation.md)
 
