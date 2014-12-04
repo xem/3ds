@@ -7,5 +7,5 @@
    * [Computer setup](computer_setup.md)
    * [Homebrew Channel installation](homebrew_channel_installation.md)
    * Send homebrews on the 3DS
-   * Staying up-to-date
+   * [Staying up-to-date](staying_up-to-date.md)
 
