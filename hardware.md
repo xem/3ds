@@ -8,6 +8,6 @@ or <br>
 - An SD / microSD card reader.
 - A copy of the 3DS game "Cubic Ninja". It has to be in the same region as your 3DS (Europe, USA or Japan).
 
-Note: the Gateway 3DS flashcard can also launch homebrews, but only in .3ds and .cia formats.
+Note: some 3DS flashcard can launch homebrews, built as .3ds or .cia files.
 
 However, this tutorial will focus on .3dsx homebrews, which are currently only compatible with Ninjhax + hbmenu.
