@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Is it legal?
+* [Is it legal?](is_it_legal.md)
 
