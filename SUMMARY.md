@@ -12,5 +12,5 @@
    * [Hello template!](hello_template.md)
    * [Hello build!](hello_build.md)
    * [Hello source code!](hello_source_code.md)
-   * Hello Screens, VRAM and framebuffers!
+   * [Hello Screens, VRAM and framebuffers!](hello_screens,_vram_and_framebuffers.md)
 
