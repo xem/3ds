@@ -8,6 +8,7 @@
    * [Homebrew Channel installation](homebrew_channel_installation.md)
    * Send homebrews on the 3DS
    * [Staying up-to-date](staying_up-to-date.md)
+   * Hello buttons!
 * [Homebrew development](homebrew_development.md)
    * [Hello template!](hello_template.md)
    * [Hello build!](hello_build.md)
