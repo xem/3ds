@@ -10,5 +10,5 @@
    * [Staying up-to-date](staying_up-to-date.md)
 * [Homebrew development](homebrew_development.md)
 * [Hello template!](hello_template.md)
-* Hello build!
+* [Hello build!](hello_build.md)
 
