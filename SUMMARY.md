@@ -15,5 +15,5 @@
    * [Hello Screens, VRAM and framebuffers!](hello_screens,_vram_and_framebuffers.md)
    * [Hello pixel!](hello_pixel.md)
    * [Hello image!](hello_image.md)
-   * Hello buttons!
+   * [Hello buttons!](hello_buttons.md)
 
