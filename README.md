@@ -8,7 +8,7 @@ Basic notions of programming are required, even if they come from another langua
 
 If you're not so familiar with programming, you can take a look at this great C course: [Cprogramming](http://www.cprogramming.com/tutorial.html).
 
-Note that the 3DS homebrew scene is very young, and many things are still impossible to do. (see the limitations page).
+Note that the 3DS homebrew scene is very young, and many things are still impossible to do. (see the [limitations](https://github.com/xem/3DShomebrew/blob/gh-pages/tutorial.md/blob/gh-pages/tutorial/limitations.md) page).
 
 But we're here to make it as simple as possible!
 
