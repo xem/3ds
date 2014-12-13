@@ -1,3 +1,0 @@
-# Hello pixel!
-
-coming soon
